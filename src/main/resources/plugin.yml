@@ -1,0 +1,6 @@
+name: motdsetter
+version: '${project.version}'
+main: dev.cosmics.motdsetter.MotdSetter
+commands:
+  motd:
+    permission: motdsetter.use
